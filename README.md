@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-http://g.recordit.co/xRfNlyEjAJ.gif
+<http://g.recordit.co/xRfNlyEjAJ.gif>
